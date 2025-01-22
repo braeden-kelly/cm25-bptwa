@@ -1,2 +1,3 @@
 - https://discord.com/channels/1127340805741359164/1328024685513937053
 - https://www.dojoandco.com/speaking
+- https://www.oreilly.com/library/view/what-is-domain-driven/9781492057802/ch04.html
